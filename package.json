@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "sass": "^1.57.1"
+  },
+  "scripts":{"watch-css": "sass --watch scss/estilos.scss css/estilos.css"}
+}
